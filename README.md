@@ -34,7 +34,7 @@ The model assumes p₁ > p₂, as CpG islands are, by definition, more CpG-rich 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/MartianMCMC.git
+git clone https://github.com/AtticusColwell/MartianMCMC.git
 cd MartianMCMC
 ```
 
